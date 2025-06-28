@@ -91,6 +91,7 @@ Berikut adalah beberapa fitur yang direncanakan untuk pengembangan selanjutnya:
 -   [ ] Sistem ulasan dan rating produk.
 -   [ ] Halaman profil kreator.
 -   [ ] Halaman Dashboard pelanggan
+-   [ ] Perbagus UI
 
 ---
 
