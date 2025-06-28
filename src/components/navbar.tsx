@@ -3,6 +3,7 @@ import { createClient } from "../../supabase/server";
 import { Button } from "./ui/button";
 import { ShoppingCart, Package, Palette, Code } from "lucide-react";
 import UserProfile from "./user-profile";
+import { ThemeSwitcher } from "./theme-switcher";
 
 export default async function Navbar() {
   const supabase = createClient();
@@ -43,6 +44,7 @@ export default async function Navbar() {
         </div>
 
         <div className="flex gap-4 items-center">
+          <ThemeSwitcher />
           <Button variant="ghost" size="icon">
             <ShoppingCart className="w-5 h-5" />
           </Button>
