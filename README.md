@@ -46,8 +46,8 @@ Pastikan Anda telah menginstal Node.js (versi 18.x atau lebih tinggi) dan npm/ya
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/whisnuys/GeneissStudio.git](https://github.com/whisnuys/GeneissStudio.git)
-    cd GeneissStudio
+    git clone [https://github.com/whisnuys/GeneissStudio.git](https://github.com/whisnuys/geneiss-studio.git)
+    cd geneiss-studio
     ```
 
 2.  **Instal semua dependensi:**
