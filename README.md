@@ -90,6 +90,7 @@ Berikut adalah beberapa fitur yang direncanakan untuk pengembangan selanjutnya:
 -   [ ] Fitur upload produk untuk para penjual (kreator).
 -   [ ] Sistem ulasan dan rating produk.
 -   [ ] Halaman profil kreator.
+-   [ ] Halaman Dashboard pelanggan
 
 ---
 
